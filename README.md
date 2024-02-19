@@ -3,7 +3,6 @@
 - 📚 I wrote a couple of books; one for [learning 3D graphics](https://antongerdelan.net/opengl/), and one explaining a [range of programming tools](https://antongerdelan.net/pro_programming_tools_book/index.html).
 - 🔭 I’m working on a hobby voxel video game (working title _Antonkraft_).
 - 🌱 I’m learning Pytorch.
-- 📫 https://antongerdelan.net
 
 <!--
 **capnramses/capnramses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
